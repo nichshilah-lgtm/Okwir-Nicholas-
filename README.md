@@ -1,2 +1,2 @@
-# Okwir-Nicholas-
+# Okwi-Nicholas-
 Matlab Group G
